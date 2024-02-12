@@ -1,0 +1,16 @@
+{
+    "name": "radulefter/php-jobboard",
+    "description": "Job listing application",
+    "authors": [
+      {
+        "name": "Radu Lefter",
+        "email": "test@test.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Framework\\": "Framework/",
+        "App\\": "App/"
+      }
+    }
+  }
