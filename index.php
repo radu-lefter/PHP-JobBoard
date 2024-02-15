@@ -5,7 +5,7 @@ use Framework\Session;
 
 Session::start();
 
-require '../helpers.php';
+require 'helpers.php';
 
 // Instatiate the router
 $router = new Router();
